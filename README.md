@@ -1,4 +1,4 @@
-## TaxiFarePrediction
+## Taxi Fare Analysis & Prediction
 
 ### Description
 This notebook is created as a part of **New York City Taxi Fare Prediction** Kaggle challenge and supposed to predict taxi fare.
