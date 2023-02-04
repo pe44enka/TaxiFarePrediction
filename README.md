@@ -1,15 +1,15 @@
-# TaxiFarePrediction
+## TaxiFarePrediction
 
-## Description 
+### Description 
 This notebook is created as a part of **New York City Taxi Fare Prediction** Kaggle challenge and supposed to predict taxi fare.
 
-## **Objectives**
+### **Objectives**
 Imagine you are in Big Apple. New to town and have no clue how to get from Central park to Empire State Building. After some useless attemps and short fair buttle you finally got your cab. But hey! How much is it gonna cost you in this crazy city?
 
-## **Goal of the project**
+### **Goal of the project**
 To analyze data and predict the fare amount for a taxi ride in New York City given the pickup and dropoff locations.
 
-## **Data**
+### **Data**
 [New York City Taxi Fare Prediction](https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction) dataset available at Kaggle as part of competition.
 
 The dataset contains the following fields:
@@ -25,11 +25,11 @@ Field name | Description
 *dropoff_longitude* | the longitude where the meter was disengaged
 *dropoff_latitude* | the latitude where the meter was disengaged
 
-## **Techniques**
+### **Techniques**
 In this project I will use:
 * **Data preprocessing**: PolynomialFeatures, StandardScaler
 * **ML algorihms**: LinearRegression
 * **Model training/applying:** Pipeline, tran_test_split
 
-## Installation:
+### Installation:
 You shouldn't really install this code, just click on the "TaxiFarePrediction.ipynb" file and in the follow window click on "Open in Colab" button. This will redirect you on [Colab](colab.research.google.com) by Google website. 
