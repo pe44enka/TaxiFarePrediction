@@ -1,6 +1,6 @@
-## TaxiFarePrediction
+## **TaxiFarePrediction**
 
-### Description 
+### **Description**
 This notebook is created as a part of **New York City Taxi Fare Prediction** Kaggle challenge and supposed to predict taxi fare.
 
 ### **Objectives**
@@ -31,5 +31,5 @@ In this project I will use:
 * **ML algorihms**: LinearRegression
 * **Model training/applying:** Pipeline, tran_test_split
 
-### Installation
+### **Installation**
 You shouldn't really install this code, just click on the "TaxiFarePrediction.ipynb" file and in the follow window click on "Open in Colab" button. This will redirect you on [Colab](colab.research.google.com) by Google website. 
